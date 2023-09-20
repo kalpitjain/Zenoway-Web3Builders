@@ -1,5 +1,6 @@
-# SocialGeeks
-Social Geeks is a decentralised social media platform that is designed to provide users with a secure, private, and user-controlled alternative to centralized social media platforms which is simple and easy to use. SocialGeeks is built a blockchain network, which ensures that user data is stored in a decentralized manner and is secure from unauthorized access. Users can interact with each other through a variety of features, including posts, likes, and following.
+# Zenoway
+
+Zenoway is a decentralised social media platform that is designed to provide users with a secure, private, and user-controlled alternative to centralized social media platforms which is simple and easy to use. Zenoway is built a blockchain network, which ensures that user data is stored in a decentralized manner and is secure from unauthorized access. Users can interact with each other through a variety of features, including posts, likes, and following.
 
 ## Features
 
@@ -15,12 +16,12 @@ Social Geeks is a decentralised social media platform that is designed to provid
 ## Chains
 
 - Polygon
-- Ethereum
+- BNB Chain (Binance Chain)
 
 ## Technologies
 
 - Polygon
-- Ethereum
+- EVM
 - IPFS/Filecoin
 - Replit
 - Metamask
@@ -37,13 +38,7 @@ Nodejs Download link -> https://nodejs.org/en/download/
 Clone the repository to your local machine.
 
 ```bash
-    git clone https://github.com/kalpitjain/SocialGeeks
-```
-
-Change Directory to SocialGeeks
-
-```bash
-    cd SocialGeeks-main
+    git clone https://github.com/kalpitjain/Zenoway-Web3Builders
 ```
 
 Install NPM packages
@@ -52,13 +47,13 @@ Install NPM packages
     npm install
 ```
 
-Run Social Geeks
+Run Zenoway
 
 ```bash
     npm start
 ```
 
-Run Social Geeks on Browser
+Run Zenoway on Browser
 
 ```bash
     localhost:3000
@@ -69,7 +64,5 @@ Run Social Geeks on Browser
 Website
 
 ```bash
-https://socialgeeks.on.fleek.co/
-
-https://socialgeeks-1.kalpitjain1.repl.co/
+https://zenoway-web3builders.on.fleek.co
 ```
